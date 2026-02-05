@@ -1,0 +1,17 @@
+# Java Web Project .gitignore
+*.class
+*.jar
+*.war
+*.ear
+*.log
+*.tmp
+.metadata/
+bin/
+build/
+target/
+.settings/
+.project
+.classpath
+.DS_Store
+Thumbs.db
+# Note: .accdb is NOT ignored - we include the empty template
