@@ -3,7 +3,6 @@
 Abdulhamid Alaboud · Ahmed Alaglan  
 Department of Computer Science  
 Jazan University, Saudi Arabia
- Dr. Raj Kumar Masih
 
 ## Overview
 This project is a comprehensive Java enterprise web application for managing car rental operations, developed as part of the Enterprise Application Development curriculum. The system integrates vehicle registration, real-time fleet tracking, availability management, and data persistence to provide a seamless digital rental experience. Built with Java Servlets, JSP, and Microsoft Access database, it demonstrates practical implementation of the Model-View-Controller (MVC) architecture in enterprise-grade applications.
